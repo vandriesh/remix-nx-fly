@@ -1,4 +1,4 @@
-# Integrated Nx Monorepo with multiple Remix apps
+# Integrated Nx Monorepo with multiple Remix apps - v2
 
 > For any questions, feedback, swag, or contributions, reach out to [Jacob Paris](https://twitter.com/intent/follow?screen_name=jacobmparis)
 
